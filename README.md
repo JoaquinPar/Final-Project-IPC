@@ -1,7 +1,6 @@
-- Hi, I’m Joaquin
-- I have knowledge on C, Java, and a bit of UNIX
-- I’m currently learning C, C++, and SQL
-- I want to become a Game Developer in the future
+-Joaquin Paredes
+
+This is the result of my final assignment for my class of IPC144
 
 <!---
 joaco5012/joaco5012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
